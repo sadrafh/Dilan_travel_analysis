@@ -1,4 +1,4 @@
-# Dilan_travel_analysis
+# Travel_analysis
 
 
  ## Installation 
@@ -34,12 +34,6 @@ This analysis aims to adrdress three questions:
 `2) In which country should he prioritise his effort and why `;
 
 `3) What will be revenue of Dilan based on the user id of visitors?`.
-
-## File Descriptions 
-
-
-
-## How To Interact With Your Project 
 
 
 
